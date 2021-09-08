@@ -2,7 +2,14 @@
   font-family: 'Gruppo', cursive;
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
+  .navbar-brand svg{
+    width: 50vw;
+    height: auto;
+  }
+  .intro h1 {
+    font-size: 7rem;
+  }
 }
 
 @media screen and (max-width: 400px) {
