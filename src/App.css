@@ -1,49 +1,32 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-  margin-bottom: 3rem;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #ee6627;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: black;
   font-family: 'Gruppo', cursive;
 }
 
-.App-link {
-  color: black;
-  font-size: 1rem;
-  letter-spacing: .8rem;
-  font-weight: bold;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 @media (min-width: 600px) {
-  .App-link {
-    font-size: 2rem;
+}
+
+@media screen and (max-width: 400px) {
+  #filosofia {
+    padding: 100px 0;
+    width: 111%;
   }
+  #carta,
+  #soluciones,
+  #otros,
+  #flotilla,
+  #contacto,
+  #footer {
+    width: 111%;
+  }
+
+  #sistemas {
+    width: 110%;
+  }
+}
+
+.muller-contact {
+  background-color: white;
+  padding: 2rem;
+  color: black;
+  font-size: 2rem;
 }

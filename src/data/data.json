@@ -1,0 +1,110 @@
+{
+  "Header": {
+    "title": "M U L L E R",
+    "paragraph": "Planning & Logistics."
+  },
+  "Carta": {
+    "paragraph": "En Muller estamos preocupados por el bien estar de todos, por lo que ponemos a su alcance nuestros productos, servicios y soluciones que comprenden una serie de integraciones tecnológicas, en consultoría, comunicaciones, transporte y unidades especializadas móviles. Gracias a nuestra infraestructura, conocimiento y el desarrollo de alianzas estratégicas podemos trasladar una serie de beneficios funcionales y operativos a los diferentes sectores de la comunidad como son:",
+    "Why": [
+      "Empresas Privadas",
+      "Corporativos",
+      "Instituciones Médicas"
+    ],
+    "Why2": [
+      "Gobiernos",
+      "Unidades de Seguridad",
+      "Energía y Petroquímica"
+    ]
+  },
+  "Soluciones": [
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Dirección",
+      "text": "La alta dirección de nuestra empresa está integrada por ejecutivos convencidos de la misión y valores de Muller Planning & Logistics S.A. de C.V. a quienes el trabajo y el compromiso no les son ajenos."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Soporte",
+      "text": "Hemos integrado al mejor equipo técnico y de soporte administrativo, trabajamos unidos y hacia la misma dirección: La satisfacción total de nuestros clientes."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Satisfacción",
+      "text": "En Muller Planning & Logistics S.A. de C.V. sabemos que cada uno de nuestros clientes es el más importante, compartimos sus necesidades y nos esmeramos en satisfacerlas oportunamente."
+    }
+  ],
+  "Otros": [
+    {
+      "img": "https://img.icons8.com/office/2x/chatbot.png",
+      "text": "Formulación, ejecución y evaluación."
+    },
+    {
+      "img": "https://img.icons8.com/office/2x/making-notes.png",
+      "text": "Estudios por áreas de responsabilidad."
+    },
+    {
+      "img": "https://img.icons8.com/office/2x/conference.png",
+      "text": "Implementación de control interno."
+    },
+    {
+      "img": "https://img.icons8.com/office/2x/customer-insight.png",
+      "text": "Administración en general."
+    },
+    {
+      "img": "https://img.icons8.com/office/2x/inspection.png",
+      "text": "Inventarios físicos."
+    },
+    {
+      "img": "https://img.icons8.com/office/2x/internet--v1.png",
+      "text": "Desarrollo de software"
+    }
+  ],
+  "Flotilla": [
+    {
+      "img": "https://images.pexels.com/photos/93398/pexels-photo-93398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Unidades 3 ½ Tons"
+    },
+    {
+      "img": "https://images.pexels.com/photos/1267329/pexels-photo-1267329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Capacidad de 8 y 10 Tarimas a Piso"
+    },
+    {
+      "img": "https://images.pexels.com/photos/2449454/pexels-photo-2449454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Unidades de 5 tons"
+    },
+    {
+      "img": "https://images.pexels.com/photos/1267338/pexels-photo-1267338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "Capacidad para 14 y 16 Tarimas"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Filosofia": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Misión",
+      "text": "Ser líderes en el servicio de transporte nacional e internacional, ofreciendo un servicio de calidad a nuestros clientes, una fuente de trabajo estable para nuestros empleados, rendimientos atractivos para los accionistas y beneficio para la comunidad a la que pertenecemos."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Valores",
+      "list": "Respeto",
+      "list1": "Compromiso",
+      "list2": "Honestidad",
+      "list3": "Responsabilidad",
+      "list4": "Integridad",
+      "list5": "Puntualidad"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Visión",
+      "text": "Ser una organización a nivel internacional, en el desarrollo de soluciones integrales, siendo líder en el uso y adaptación de tecnologías con los más altos estándares de calidad y servicio, para beneficio de nuestros clientes, aliados, colaboradores y accionistas."
+    }
+  ]
+}
